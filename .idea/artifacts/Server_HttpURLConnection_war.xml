@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Server_HttpURLConnection:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.server.prediction-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Server_HttpURLConnection:war exploded" />
+    </root>
+  </artifact>
+</component>
